@@ -1,4 +1,5 @@
 # Automating Project
+----
 Let's create project automatic
 # Idea
 I try to create this simple project in order to create a project, up it to github, remove it from github automatic.
