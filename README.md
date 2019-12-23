@@ -15,4 +15,4 @@ After clone this project, let add .my_commands.sh and .setup.sh to ~/.bashrc per
 This Project allow you to create a Project with README.md, src, docs, report and .gitignore, then push it in a new repository in GitHub, which name the same with your new project's name.
 
 # Contact
-*** This is a project that i'm try to learn bash, python and use github's API. Please contact me or create an issue if you get any bugs. Thanks!***
+***This is a project that i'm try to learn bash, python and use github's API. Please contact me or create an issue if you get any bugs. Thanks!***
